@@ -1,8 +1,8 @@
 # Dart Programming for Advanced beginners
 
-+ ## Designed by : **Lars Bark** and **Kasper Lund**
-+ ## Developer : Google
-+ ## First Release : October 10, 2011
++ ### Designed by : **Lars Bark** and **Kasper Lund**
++ ### Developer : Google
++ ### First Release : October 10, 2011
 
 ## Features of Dart
 
